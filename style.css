@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(227,235,219);
+    font-family: 'Limelight', cursive; 
+}
+.header_div p {
+    font-family: 'Black Ops One', cursive;
+    color:crimson;
+    letter-spacing:2px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.main_div button {
+    font-family: 'Bangers', cursive;
+    margin-top: 30px;
+    width:130px;
+    font-weight:bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+    font-family: 'Ultra', serif;
+    position: fixed;
+    color: royalblue;
+    bottom: 0;
+    width:100%;
+    font-size:18px;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(255 140 0);
+}
